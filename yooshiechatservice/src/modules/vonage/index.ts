@@ -1,0 +1,1 @@
+export { smsProxy as smsProxyV1 } from "./controller";
